@@ -1,1 +1,7 @@
-# Introdução e importância do Git
+Sobre o Git: Criado por por Linus Torvalds, o criador do kernel do sistema operacional Linux. O Git é um sistema de controle de versões.
+Git ≠ Github
+O git não possui interface gráfica, apenas linhas de comando.
+Principais comandos utilizados do Git: git add; git commit; git push; git status; git init.
+
+Sobre o Github: o GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+
